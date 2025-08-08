@@ -1,0 +1,8 @@
+{
+  "name": "ALTOR4.7",
+  "description": "The Ak",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
